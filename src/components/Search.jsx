@@ -40,13 +40,13 @@ const Search = () => {
 					}}
 					className="p-2 bg-gray-300 border text-xs xl:text-sm text-black"
 				>
-					<option value="">All</option>
-					<option value="">Deals</option>
-					<option value="">Amazon</option>
-					<option value="">Fashion</option>
-					<option value="">Computers</option>
-					<option value="">Home</option>
-					<option value="">Mobiles</option>
+					<option value="All">All</option>
+					<option value="Deals">Deals</option>
+					<option value="Amazon">Amazon</option>
+					<option value="Fashion">Fashion</option>
+					<option value="Computers">Computers</option>
+					<option value="Home">Home</option>
+					<option value="Mobiles">Mobiles</option>
 				</select>
 				<input
 					className="flex grow items-center h-[100%] rounded-l text-black"
