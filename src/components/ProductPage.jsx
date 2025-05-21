@@ -68,9 +68,9 @@ const ProductPage = () => {
 									onChange={(e) => setQuantity(e.target.value)}
 									className="p-2 bg-white border rounded-md focus:border-indigo-600"
 								>
-									<option value="">1</option>
-									<option value="">2</option>
-									<option value="">3</option>
+									<option value="1">1</option>
+									<option value="2">2</option>
+									<option value="3">3</option>
 								</select>
 							</div>
 							<Link to={"/checkout"}>
