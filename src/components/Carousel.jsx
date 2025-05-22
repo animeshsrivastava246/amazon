@@ -29,10 +29,10 @@ const Carousel = () => {
 					</video>
 				</SwiperSlide>
 				<SwiperSlide>
-					<img src={"../images/carousel_4.jpg"} alt="" />
+					<img src={"../images/carousel_4.jpg"} alt="Image" />
 				</SwiperSlide>
 				<SwiperSlide>
-					<img src={"../images/carousel_5.jpg"} alt="" />
+					<img src={"../images/carousel_5.jpg"} alt="Image" />
 				</SwiperSlide>
 			</Swiper>
 			<div className="h-[50%] bg-gradient-to-b from-stone-900"/>
