@@ -15,13 +15,13 @@ const Carousel = () => {
 				className="h-[50%]"
 			>
 				<SwiperSlide>
-					<img src={"../images/carousel_1.jpg"} alt="" />
+					<img src={"../images/carousel_1.jpg"} alt="Image" />
 				</SwiperSlide>
 				<SwiperSlide>
-					<img src={"../images/carousel_2.jpg"} alt="" />
+					<img src={"../images/carousel_2.jpg"} alt="Image" />
 				</SwiperSlide>
 				<SwiperSlide>
-					<img src={"../images/carousel_3.jpg"} alt="" />
+					<img src={"../images/carousel_3.jpg"} alt="Image" />
 				</SwiperSlide>
 				<SwiperSlide className="bg-black">
 					<video controls muted="muted">
