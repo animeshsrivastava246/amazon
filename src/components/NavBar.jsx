@@ -41,7 +41,7 @@ const NavBar = () => {
 						<div className="flex px-3">
 							<ShoppingCartIcon className="h-[40px]" />
 							<div className="relative">
-								<div className="absolute right-[6px] bottom-[6px] font-bold m-2 text-orange-400">
+								<div className="absolute right-[6px] bottom-[10px] font-bold m-2 text-orange-400">
 									{cart}
 								</div>
 							</div>

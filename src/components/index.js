@@ -8,6 +8,7 @@ export { default as CarouselCategory } from "./CarouselCategory";
 export { default as CarouselProduct } from "./CarouselProduct";
 export { default as ProductPage } from "./ProductPage";
 export { default as HomePageCard } from "./HomePageCard";
+export { default as NotFound } from "./NotFound";
 export { default as ProductBadge } from "./ProductBadge";
 export { default as ProductDetails } from "./ProductDetails";
 export { default as ProductRatings } from "./ProductRatings";
